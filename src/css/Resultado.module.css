@@ -1,0 +1,12 @@
+.containerResultado{
+    text-align: center;
+    color: #fff;
+    padding-top: 6rem;
+    font-size: 1.2rem;
+}
+.respostaCerta,.numeroAcertos,.totalPerguntas{
+    color: rgb(62, 250, 103);
+}
+.acertos{
+    margin-bottom: 2rem;
+}
